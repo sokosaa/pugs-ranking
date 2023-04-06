@@ -270,7 +270,7 @@ class OutcomeSelectionWidget(QWidget):
         self.layout.addWidget(self.submit_button)
 
         self.setLayout(self.layout)
-        self.setFixedHeight(100)
+        self.setFixedHeight(150)
 
     def submit_outcome(self):
         outcome = 0
