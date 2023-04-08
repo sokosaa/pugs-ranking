@@ -1,1 +1,1 @@
-you need tesseract: https://github.com/UB-Mannheim/tesseract/wiki#:~:text=tesseract%2Docr%2Dw64%2Dsetup%2D5.3.1.20230401.exe%20(64%20bit)
+you need tesseract: https://github.com/UB-Mannheim/tesseract/wiki
