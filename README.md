@@ -5,3 +5,6 @@ Application for keeping track of and easily updating ranks of Overwatch players 
 PUGs = Pick Up Games  
 
 Note: need tesseract for the game screenshot to player name text to work: https://github.com/UB-Mannheim/tesseract/wiki
+
+### UI Preview  
+![Media](https://github.com/user-attachments/assets/6183c3b1-e058-46df-b38d-6c2b98b8e644)
